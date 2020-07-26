@@ -1,5 +1,5 @@
 #ifndef MAP_H
-#define PMAP_H
+#define MAP_H
 
 #include "Pipe.h"
 
